@@ -21,3 +21,7 @@
 * HTML
 * CSS
 * JavaScript
+
+### Screenshot
+
+<img src="simon_game.png" alt="Logo">
